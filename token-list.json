@@ -1,0 +1,25 @@
+{
+  "name": "Gold Hoe One",
+  "logoURI": "https://upload.jianshu.io/users/upload_avatars/7505289/4e02ff73-3bad-4dc6-9b29-43e42032325c.jpg",
+  "keywords": [
+      "defi",
+      "DEFI",
+      "yield"
+    ],
+    "timestamp": "2020-09-01T01:40:34.305Z",
+    "tokens": [
+      {
+      "chainId": 1,
+      "address": "0xa56ed2632e443db5f93e73c89df399a081408cc4",
+      "name": "Gold Hoe One",
+      "symbol": "HOE",
+      "decimals": 18,
+      "logoURI": "https://upload.jianshu.io/users/upload_avatars/7505289/4e02ff73-3bad-4dc6-9b29-43e42032325c.jpg"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}
